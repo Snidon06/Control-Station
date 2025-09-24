@@ -5,7 +5,7 @@ A ready to use low level open source application for controling and monitoring v
 Overview
 
 This project was originally created by joop brokking, but the codebase had significant issues that prevented it from running or meeting its intended goals.
-I took over maintenance, diagnosed the problems, and implemented a series of fixes to restore full functionality. Note if you want the source code for it go to https://github.com/Snidon06/Control-Station(source)
+I took over maintenance, diagnosed the problems, and implemented a series of fixes to restore full functionality. Note if you want the source code for it go to https://github.com/Snidon06/Control-Station-source-
 
 Current Status
 
